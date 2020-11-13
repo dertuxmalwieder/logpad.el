@@ -16,7 +16,7 @@ Enable `(logpad-mode)` and GNU Emacs will check for the magic `.LOG` line whenev
 
 ## Donations (optional)
 
-`logpad.el` is free software by the terms of the [WTFPL](http://www.wtfpl.net/txt/copying/). As some people - including myself - like to contribute money for a good cause anyway, here are two possible options for you:
+`logpad.el` is free software by the terms of the [MIT-0 license](LICENSE). As some people - including myself - like to contribute money for a good cause anyway, here are two possible options for you:
 
 ### Donate money to the nature:
 
