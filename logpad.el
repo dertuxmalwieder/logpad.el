@@ -1,15 +1,15 @@
 ;;; logpad.el --- Simulate Windows Notepad for logging. -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2018 Jens K. Loewe
+;; Copyright (C) 2018-2020 git@tuxproject.de
 
-;; Author: Jens K. Loewe <git@tuxproject.de>
-;; URL: https://bitbucket.org/tux_/logpad.el
+;; Author: Sven Knurr <git@tuxproject.de>
+;; URL: https://github.com/dertuxmalwieder/logpad.el
 ;; Keywords: files outlines notepad
-;; Version: 1.0.1
+;; Version: 1.0.2
 
 ;; This work is free. You can redistribute it and/or modify it under the
-;; terms of the Do What The Fuck You Want To Public License, Version 2,
-;; as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
+;; terms of the MIT No Attribution license. See the file LICENSE for more
+;; details.
 
 ;; This file is NOT part of GNU Emacs.
 
